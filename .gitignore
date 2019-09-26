@@ -4,3 +4,5 @@
 try.*
 __pycache__
 build/
+.vscode
+
